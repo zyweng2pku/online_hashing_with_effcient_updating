@@ -10,10 +10,10 @@ Run the following command in MATLAB: OHWEU.m
 ## Reference ##
 Please cite:
 ```
-@article{weng2020online,
+@proceeding{weng2020online,
   title={Online Hashing With Effcient Updating of Binary Codes},
   author={Zhenyu Weng, Yuesheng Zhu},
-  journal={AAAI},
+  booktitle={AAAI},
   year={2020}
 }
 ```
