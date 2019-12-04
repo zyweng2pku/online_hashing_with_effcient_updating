@@ -6,4 +6,5 @@ tag_v2.txt is the AllTags81.txt from the dataset, in which there are 89,528 imag
 
 
 [1] Lin Ming, Ji R, Liu H, et al. Hadamard Matrix Guided Online Hashing. arXiv preprint arXiv:1905.04454, 2019.
+
 [2] Liu R, Zhao Y, Wei S, et al. Indexing of CNN Features for Large Scale Image Search. arXiv preprint arXiv:1508.00217, 2015.
