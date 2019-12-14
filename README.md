@@ -11,7 +11,7 @@ Run the following command in MATLAB: OHWEU.m
 ## Reference ##
 Please cite:
 ```
-@proceeding{weng2020online,
+@proceedings{weng2020online,
   title={Online Hashing With Effcient Updating of Binary Codes},
   author={Zhenyu Weng, Yuesheng Zhu},
   booktitle={AAAI},
